@@ -10,10 +10,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-
-**IT Manager | Cloud Infrastructure | Security & Compliance**
-
-I build secure, scalable infrastructure and automation tools for IT operations. Currently showcasing skills in AWS, Python, Rust, and full-stack development through hands-on projects.
+**Enterprise Support Engineer @ Depot.dev | Infrastructure | Developer Tooling**  
+**Helping developers ship faster — and building things in Python, Go, and Rust when I'm not on the clock**
 
 ---
 
@@ -25,16 +23,11 @@ I build secure, scalable infrastructure and automation tools for IT operations. 
 - **CI/CD pipelines** for automated deployments
 - **Disaster recovery** systems and backup automation
 
-### Security & Compliance
-- **Security automation** (vulnerability scanning, compliance checks)
-- **PCI DSS compliance** frameworks and documentation
-- **MDM automation** for device management at scale
-- **Policy and procedure** templates for enterprise IT
-
-### Applications & Tools
-- **IT operations dashboards** with real-time monitoring
-- **Asset management systems** for hardware/software tracking
-- **Full-stack applications** using React, TypeScript, Python, Rust
+### Support & Developer Tooling
+- **CLI diagnostic tools** for debugging infrastructure and connectivity issues
+- **Docker build analyzers** for surfacing bottlenecks, cache performance, and layer insights
+- **Runbooks and operational documentation** for complex distributed systems
+- **Full-stack applications** using React, TypeScript, Python, and Go
 
 ---
 
@@ -63,42 +56,42 @@ React • TypeScript • Tailwind CSS • Vite
 ## 📂 Featured Projects
 
 ### 🎬 [Movie Analytics Dashboard](https://github.com/jaime-builds/movie-analytics-dashboard)
-Full-stack web application for exploring and analyzing 1,000+ movies with advanced filtering, top actors pages, hidden gems discovery, and interactive data visualizations. Demonstrates Python, SQL, web development, and data visualization skills.
+Full-stack movie discovery platform with user authentication, personalized collections, and a rich analytics dashboard. Pulls live data from the TMDB API — 5,000+ movies synced daily. The SQL is the real showpiece: window functions, subqueries, a custom hidden-gems scoring algorithm, and a normalized 12-table schema. Ships with GitHub Actions CI/CD and 47 passing tests.
 
-**Tech:** Python, Flask, SQLAlchemy, SQLite, Bootstrap 5, Chart.js, TMDB API  
-**Features:** Complex SQL queries, many-to-many relationships, responsive design, analytics dashboard, dark mode
+**Tech:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap 5, Chart.js, TMDB API  
+**Features:** Complex SQL queries, GitHub Actions CI/CD, analytics dashboard, dark mode
 
 ---
 
 ### 🦀 [Rust Rush - Tower Defense Game](https://github.com/jaime-builds/rust-rush)
-Multi-language tower defense game built with Rust (game engine), Go (WebSocket server), and React (frontend). Features A* pathfinding, real-time multiplayer, and 60 FPS canvas animation.
+A real-time tower defense game running in the browser, built with a server-authoritative Go backend and a React + Canvas frontend. All game logic — BFS pathfinding, projectile physics, tower targeting, damage calculations — lives on the server at 60 FPS. The client just renders.
 
-**Tech:** Rust, Go, React, TypeScript, WebSockets, PostgreSQL  
-**Features:** A* pathfinding algorithm, real-time state synchronization, dynamic enemy pathfinding, tower placement system
+**Tech:** Go, React, TypeScript, WebSockets, PostgreSQL, Vite  
+**Features:** BFS pathfinding, real-time WebSocket updates, 4 tower types, dynamic path recalculation mid-wave
 
 ---
 
 ### 🔐 Infrastructure-as-Code Starter Kit
 *(Coming Soon)*  
-Enterprise-ready AWS infrastructure template with security hardening, compliance controls, and disaster recovery.
+Enterprise-ready AWS infrastructure template with security hardening, compliance controls, and disaster recovery. Multi-environment Terraform modules covering networking, compute, security, monitoring, and database layers.
 
 **Tech:** AWS, Terraform, CloudFormation, Python
 
 ---
 
-### 📱 MDM Automation Toolkit
+### 🛠️ CLI Diagnostic Tool
 *(Coming Soon)*  
-40+ automation scripts for Jamf Pro and Microsoft Intune device management, compliance checking, and reporting.
+A command-line tool that runs common debugging checks — DNS resolution, HTTP/HTTPS connectivity, SSL certificate validation, latency analysis — and outputs a structured, shareable report. Built for the kind of triage a support engineer does every day, but packaged as a proper tool.
 
-**Tech:** Python, PowerShell, Jamf API, Microsoft Graph API
+**Tech:** Go, Bash
 
 ---
 
-### 🔒 Security Automation Suite
+### 🐳 Docker Build Analyzer
 *(Coming Soon)*  
-Comprehensive security tooling for vulnerability scanning, compliance automation, and incident response.
+A tool that parses Docker build logs and surfaces actionable insights: layer sizes, cache hit/miss rates, slow steps, and optimization recommendations. Because fast builds matter.
 
-**Tech:** Python, Bash, AWS Security Hub, CIS Benchmarks
+**Tech:** Python, Docker API
 
 ---
 
@@ -111,9 +104,8 @@ Comprehensive security tooling for vulnerability scanning, compliance automation
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/jaimedelapaz](https://linkedin.com/in/jaimedelapaz)
-<!-- - **Email:** jaime@jaimebuilds.com *(or your actual email)*
-- **Portfolio:** jaimebuilds.com *(when ready)* -->
+- **Portfolio:** [jaime-builds.github.io](https://jaime-builds.github.io)
 
 ---
 
-**💬 "Building secure, scalable infrastructure and IT systems"**
+**💬 "15+ years of making complex systems make sense — for developers, customers, and everyone in between"**
