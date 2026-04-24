@@ -55,42 +55,18 @@ Flask • React • SQLAlchemy • Tailwind CSS • Vite
 ## 📂 Featured Projects
 
 ### 🎬 [Movie Analytics Dashboard](https://github.com/jaime-builds/movie-analytics-dashboard)
-Full-stack movie discovery platform with user authentication, personalized collections, and an analytics dashboard. Pulls live data from the TMDB API with 5,000+ movies synced daily. Heavy on SQL: window functions, subqueries, a custom hidden-gems scoring algorithm, and a normalized 12-table schema. Ships with GitHub Actions CI/CD and 47 passing tests.
+A full-stack movie discovery platform with user authentication, personalized collections, ratings, reviews, and an analytics dashboard. Pulls live data from the TMDB API with 8,000+ movies synced daily. Heavy on SQL: window functions, subqueries, a custom hidden-gems scoring algorithm, and a normalized 15-table schema. Ships with GitHub Actions CI/CD, 87% test coverage, 339 passing tests, and a RESTful API with 13 endpoints. Live on Railway.
 
 **Tech:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap 5, Chart.js, TMDB API  
-**Features:** Complex SQL queries, GitHub Actions CI/CD, analytics dashboard, dark mode
+**Features:** Complex SQL queries, GitHub Actions CI/CD, analytics dashboard, dark mode, Docker support
 
 ---
 
 ### 🦀 [Rust Rush - Tower Defense Game](https://github.com/jaime-builds/rust-rush)
-A real-time tower defense game running in the browser. Server-authoritative Go backend with a React + Canvas frontend. All game logic (BFS pathfinding, projectile physics, tower targeting, damage calculations) runs on the server at 60 FPS. The client handles rendering.
+A real-time tower defense game running in the browser. Server-authoritative Go backend with a React + Canvas frontend. All game logic (BFS pathfinding, projectile physics, tower targeting, damage calculations) runs on the server at 60 FPS. The client handles rendering. Features 4 tower types with distinct mechanics, 4 upgrade levels per tower, enemy progression across Basic/Fast/Tank/Boss types, health and speed scaling per wave, and a full game loop with game over and new game. Fast forward mode and a debug panel are in for testing.
 
 **Tech:** Go, React, TypeScript, WebSockets, PostgreSQL, Vite  
-**Features:** BFS pathfinding, real-time WebSocket updates, 4 tower types, dynamic path recalculation mid-wave
-
----
-
-### 🔐 Infrastructure-as-Code Starter Kit
-*(Coming Soon)*  
-Enterprise-ready AWS infrastructure template with security hardening, compliance controls, and disaster recovery. Multi-environment Terraform modules covering networking, compute, security, monitoring, and database layers.
-
-**Tech:** AWS, Terraform, CloudFormation, Python
-
----
-
-### 🛠️ CLI Diagnostic Tool
-*(Coming Soon)*  
-A command-line tool that runs common debugging checks: DNS resolution, HTTP/HTTPS connectivity, SSL certificate validation, and latency analysis. Outputs a structured, shareable report. Built for the kind of triage a support engineer does every day.
-
-**Tech:** Go, Bash
-
----
-
-### 🐳 Docker Build Analyzer
-*(Coming Soon)*  
-Parses Docker build logs and surfaces layer sizes, cache hit/miss rates, slow steps, and optimization recommendations.
-
-**Tech:** Python, Docker API
+**Features:** BFS pathfinding, real-time WebSocket updates, 4 tower types with upgrades, dynamic path recalculation mid-wave, 60 FPS game loop
 
 ---
 
