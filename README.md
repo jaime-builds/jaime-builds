@@ -2,15 +2,15 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-**Enterprise Support Engineer @ Depot.dev | Building things in Python, Go, and Rust when I'm not on the clock**
+**Enterprise Support Engineer @ Depot.dev | Building things in Python and Go when I'm not on the clock**
 
 ---
 
@@ -32,23 +32,23 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**  
-AWS • Terraform • Docker • Kubernetes • Linux
+**Cloud & Infrastructure**
+AWS • Docker • Kubernetes • Terraform • Cloudflare • Linux
 
-**Languages**  
-Python • Rust • TypeScript • Bash • PowerShell
+**Languages**
+Python • Go • TypeScript • JavaScript • Bash • PowerShell • SQL
 
-**Databases**  
-PostgreSQL • Redis • ClickHouse • TimescaleDB
+**Databases**
+PostgreSQL • ClickHouse • SQLite • MySQL
 
-**Security & Compliance**  
-PCI DSS • SOC 2 • CIS Benchmarks • AWS Security Hub
+**Monitoring & Observability**
+Datadog • Prometheus • Grafana • OpenTelemetry
 
-**Device Management**  
-Jamf Pro • Microsoft Intune • MDM Automation
+**DevOps & CI/CD**
+GitHub Actions • Terraform • Terragrunt • Depot • Jenkins
 
-**Frontend**  
-React • TypeScript • Tailwind CSS • Vite
+**Web & Frameworks**
+Flask • React • SQLAlchemy • Tailwind CSS • Vite
 
 ---
 
