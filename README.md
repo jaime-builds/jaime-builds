@@ -10,8 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-**Enterprise Support Engineer @ Depot.dev | Infrastructure | Developer Tooling**  
-**Helping developers ship faster — and building things in Python, Go, and Rust when I'm not on the clock**
+**Enterprise Support Engineer @ Depot.dev | Building things in Python, Go, and Rust when I'm not on the clock**
 
 ---
 
@@ -56,7 +55,7 @@ React • TypeScript • Tailwind CSS • Vite
 ## 📂 Featured Projects
 
 ### 🎬 [Movie Analytics Dashboard](https://github.com/jaime-builds/movie-analytics-dashboard)
-Full-stack movie discovery platform with user authentication, personalized collections, and a rich analytics dashboard. Pulls live data from the TMDB API — 5,000+ movies synced daily. The SQL is the real showpiece: window functions, subqueries, a custom hidden-gems scoring algorithm, and a normalized 12-table schema. Ships with GitHub Actions CI/CD and 47 passing tests.
+Full-stack movie discovery platform with user authentication, personalized collections, and an analytics dashboard. Pulls live data from the TMDB API with 5,000+ movies synced daily. Heavy on SQL: window functions, subqueries, a custom hidden-gems scoring algorithm, and a normalized 12-table schema. Ships with GitHub Actions CI/CD and 47 passing tests.
 
 **Tech:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap 5, Chart.js, TMDB API  
 **Features:** Complex SQL queries, GitHub Actions CI/CD, analytics dashboard, dark mode
@@ -64,7 +63,7 @@ Full-stack movie discovery platform with user authentication, personalized colle
 ---
 
 ### 🦀 [Rust Rush - Tower Defense Game](https://github.com/jaime-builds/rust-rush)
-A real-time tower defense game running in the browser, built with a server-authoritative Go backend and a React + Canvas frontend. All game logic — BFS pathfinding, projectile physics, tower targeting, damage calculations — lives on the server at 60 FPS. The client just renders.
+A real-time tower defense game running in the browser. Server-authoritative Go backend with a React + Canvas frontend. All game logic (BFS pathfinding, projectile physics, tower targeting, damage calculations) runs on the server at 60 FPS. The client handles rendering.
 
 **Tech:** Go, React, TypeScript, WebSockets, PostgreSQL, Vite  
 **Features:** BFS pathfinding, real-time WebSocket updates, 4 tower types, dynamic path recalculation mid-wave
@@ -81,7 +80,7 @@ Enterprise-ready AWS infrastructure template with security hardening, compliance
 
 ### 🛠️ CLI Diagnostic Tool
 *(Coming Soon)*  
-A command-line tool that runs common debugging checks — DNS resolution, HTTP/HTTPS connectivity, SSL certificate validation, latency analysis — and outputs a structured, shareable report. Built for the kind of triage a support engineer does every day, but packaged as a proper tool.
+A command-line tool that runs common debugging checks: DNS resolution, HTTP/HTTPS connectivity, SSL certificate validation, and latency analysis. Outputs a structured, shareable report. Built for the kind of triage a support engineer does every day.
 
 **Tech:** Go, Bash
 
@@ -89,7 +88,7 @@ A command-line tool that runs common debugging checks — DNS resolution, HTTP/H
 
 ### 🐳 Docker Build Analyzer
 *(Coming Soon)*  
-A tool that parses Docker build logs and surfaces actionable insights: layer sizes, cache hit/miss rates, slow steps, and optimization recommendations. Because fast builds matter.
+Parses Docker build logs and surfaces layer sizes, cache hit/miss rates, slow steps, and optimization recommendations.
 
 **Tech:** Python, Docker API
 
