@@ -16,12 +16,15 @@ Enterprise Support Engineer @ Depot.dev, building things in Python and Go when I
 
 ## 📊 GitHub Stats
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaime-builds&show_icons=true&theme=dark)
+<p align="left">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Jaime's profile details" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Jaime's GitHub stats" />
+</p>
 
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/jaimedelapaz](https://linkedin.com/in/jaimedelapaz)
-- **Portfolio:** [www.jaime.build](https://jaime.build)
+- **Portfolio:** [www.jaime.build](https://www.jaime.build)
 
 ---
 
