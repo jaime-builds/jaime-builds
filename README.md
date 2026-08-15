@@ -21,6 +21,12 @@ Enterprise Support Engineer @ Depot.dev, building things in Python and Go when I
   <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Jaime's GitHub stats" />
 </p>
 
+## 🃏 Profile Card
+
+<p align="left">
+  <img src="./profile-summary-card-output/jaime-builds-gitcg.png" alt="Jaime's GitHub profile card" width="320" />
+</p>
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/jaimedelapaz](https://linkedin.com/in/jaimedelapaz)
